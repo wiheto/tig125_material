@@ -1,2 +1,4 @@
-# tig125_material
-Some course material relating to tig125 
+# TIG125 Material
+
+Some course material relating to tig125. 
+
